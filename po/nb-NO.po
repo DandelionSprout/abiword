@@ -5491,14 +5491,12 @@ msgstr "Rapporter en &feil"
 #. MENU_STATUSLINE_HELP_REPORT_BUG
 #: po/tmp/ap_String_Id.h
 msgid "Report a bug and help AbiWord become a better product"
-msgstr "Rapporter en feil å hjelp Abiword å bli et bedre produkt"
+msgstr "Rapporter en feil og hjelp AbiWord å bli et bedre produkt"
 
 #. MENU_STATUSLINE_VIEW_DEFAULT_TB_LAYOUT
 #: po/tmp/ap_String_Id.h
 msgid "Reset the current toolbar layout to its defaults"
-msgstr ""
-"Tilbakestill det nåværende verktøylinjeutseende til de forvalgte "
-"instillingene"
+msgstr "Tilbakestill det nåværende verktøylinjeutseende til de forvalgte innstillingene"
 
 #. MENU_STATUSLINE_FMT_IMAGE
 #: po/tmp/ap_String_Id.h
@@ -8421,7 +8419,7 @@ msgstr "Gresk, Windows Code Page 1253"
 #. DLG_HTMLOPT_ExpTitle
 #: po/tmp/xap_String_Id.h
 msgid "HTML Export Options"
-msgstr "HTML eksporteringsinstillinger"
+msgstr "HTML-eksporteringsinnstillinger"
 
 #. LANG_HA_NE
 #: po/tmp/xap_String_Id.h
@@ -9094,7 +9092,7 @@ msgstr "Gjenopprett"
 #. DLG_HTMLOPT_ExpRestore
 #: po/tmp/xap_String_Id.h
 msgid "Restore Settings"
-msgstr "Gjenopprett instillinger"
+msgstr "Gjenopprett innstillinger"
 
 #. DLG_DocComparison_Results
 #: po/tmp/xap_String_Id.h
@@ -9139,7 +9137,7 @@ msgstr "Lagre fil som"
 #. DLG_HTMLOPT_ExpSave
 #: po/tmp/xap_String_Id.h
 msgid "Save Settings"
-msgstr "Lagre instillinger"
+msgstr "Lagre innstillinger"
 
 #. DLG_FOSA_FileSaveTypeLabel
 #: po/tmp/xap_String_Id.h
